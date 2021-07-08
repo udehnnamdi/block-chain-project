@@ -1,0 +1,15 @@
+.block_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #2e2e2e;
+    width: 1000px;
+    padding: 0rem 2rem;
+}
+
+
+.span_class {
+    color: rgb(20, 235, 255);
+}
